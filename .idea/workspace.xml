@@ -4,13 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3ec295ce-5570-4fb9-be49-3fd81fab8509" name="Changes" comment="">
+    <list default="true" id="3ec295ce-5570-4fb9-be49-3fd81fab8509" name="Changes" comment="good stuff">
+      <change afterPath="$PROJECT_DIR$/test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/baseline.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_baseline1.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/doodles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/doodles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalito.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finalito.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalito_addit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finalito_addit.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/finalito_addit_gdp.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/finalito_addit_gdp.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +42,9 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;last_opened_file_path&quot;: &quot;/Users/jakubgralinski/Desktop/studies/ML_ScienceClub/GoldmanHackathon2024/gs_quant_mc&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -65,5 +83,11 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="zrobiony sobol student, poczatek importance selection" />
+    <MESSAGE value="importance" />
+    <MESSAGE value="good stuff" />
+    <option name="LAST_COMMIT_MESSAGE" value="good stuff" />
   </component>
 </project>
